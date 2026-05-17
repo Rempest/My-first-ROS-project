@@ -15,16 +15,4 @@ Simple ROS2 Python package that publishes velocity commands to control a robot (
 
 ---
 
-## Project Architecture
-ros_turtle_bot_control/
-├── resource/
-│   └── turtle_bot_control
-├── turtle_bot_control/
-│   ├── __init__.py
-│   └── turtle_bot_control.py
-├── LICENSE
-├── informational_requirements.txt
-├── package.xml
-├── setup.cfg
-└── setup.py
 
